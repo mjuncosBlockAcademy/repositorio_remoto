@@ -1,0 +1,1 @@
+var cartTotal = 120;
