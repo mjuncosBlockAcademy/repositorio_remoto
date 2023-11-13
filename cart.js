@@ -1,1 +1,2 @@
-var cartTotal = 120;
+var cartTotal = 150;
+
